@@ -1,0 +1,5 @@
+list = ['10', '50', '100']
+for i in list:
+	print(i)
+print('Good Job!')
+
